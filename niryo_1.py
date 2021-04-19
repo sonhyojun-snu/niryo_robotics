@@ -117,6 +117,6 @@ try:
 except NiryoOneException as e:
     print e
     # handle exception here
-    # you can also make a try/except for each command separately
+    # you can also make a try/except for each command separatelly
 
 print "--- End"
