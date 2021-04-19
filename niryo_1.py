@@ -117,6 +117,6 @@ try:
 except NiryoOneException as e:
     print e
     # handle exception here
-    # you can also make a try/except for each command separatelly
+    # you can also make a try/except for each command separateldfklsdl;dk;akfy
 
 print "--- End"
